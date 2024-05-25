@@ -1,1 +1,1 @@
-16
+Not a Zero or Null Matrix
